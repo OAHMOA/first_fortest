@@ -1,0 +1,14 @@
+button {
+	font-family:"Arial", "Tahoma", "微软雅黑", "雅黑";
+	border:0px;
+	vertical-align:middle;
+	margin:8px;
+	line-height:18px;
+	font-size:18px;
+}
+
+#send1 {
+	background:url("image/reset.gif") no-repeat 8px center;
+	background-color:#f9f9f9;
+	background-position:left -80px;
+}
